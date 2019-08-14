@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Visibility Check-ins"
-img: 
+img: team_wide.jpg
 date: 2019-08-03 12:55:00 +0300
 description: An introduction to the concept of Visibility Check-ins.
-author-name:
-author-photo:
+author-name: Sanjeev Balarajan
+author-photo: Sanjeev_Balarajan.jpeg
 about-author: 
 tag: [Men's-Work, Growth]
 ---
