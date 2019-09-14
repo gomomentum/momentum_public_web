@@ -21,6 +21,6 @@ Annual dues are $80 for regular Owners, and $40 for remote Owners (who live more
 
 _Momentum is open to men 18 and over._
 
-Payment options: Online via credit card or check (manual). Paying online will give you instant access to the Owners community social Discourse platform and is the preferred method. If paying by check, you will receive an email giving you access once your payment is received. Manual payment instructions can be obtained by clicking [_**Get in Touch**_](../contact/) from the main menu. Special arrangements are available for men for whom full dues are a hardship. Zelle and Venmo coming soon!
+Payment options: Online via credit card or check (manual). Paying online will give you instant access to the Owners community social Discourse platform and is the preferred method. If paying by check, you will receive an email giving you access once your payment is received. Manual payment instructions can be obtained by clicking [_**Get in Touch**_](../contact/) from the main menu. Special arrangements are available for men for whom full dues are a hardship.
 
 Revised September 2018  -- Questions? [Contact us here](../contact/).
