@@ -17,25 +17,25 @@ Rules and Decisions
 
 The rules and standards of the men's organization Momentum are contained in this written Charter.
 
-Proposed changes to the Charter must be presented via email to Members at least 14 days prior to a General Meeting and ratified by two-thirds of the Members who vote at the meeting. Abstentions do not count. There are no proxy votes.
+Proposed changes to the Charter must be presented via email to members at least 14 days prior to a General Meeting and ratified by two-thirds of the members who vote at the meeting. Abstentions do not count. There are no proxy votes.
 
 All decisions not otherwise prescribed in the Charter are made by the Chief.
 
 Membership
 ----------
 
-Members must be men, 18 years of age or older, who have met the membership requirements. Members are encouraged to be on teams but it is not required. A team can be comprised of both Members and non-Members; that is, the whole team does not need to be in Momentum. Dues are established by the Chief and must be paid in full to maintain membership.
+Members must be men, 18 years of age or older, who have met the membership requirements. Members are encouraged to be on teams but it is not required. A team can be comprised of both members and non-members; that is, the whole team does not need to be in Momentum. Dues are established by the Chief and must be paid in full to maintain membership.
 
 Leadership
 ----------
 
 Momentum is led by a Chief, or Co-Chiefs (herein "Chief"). There is no fixed term for Chiefs. 
 
-#### Succession
-When a Chief announces that he plans to step down or the position is vacated, the former Chiefs form a Nominating Committee, which manages the nomination and election processes. The Committee solicits nominations from members; vets the nominees in the Primal tradition, in a spirit of truth and ruthless compassion; and presents a slate with one or more candidates to the membership at least one week prior to a General Meeting, at which the Committee manages an election process, which includes discussion and opportunities to revise the slate. A “candidate” on the slate may be more than one man (i.e., co- chiefs). A candidate becomes Chief upon receiving more than 50% of the vote.
+#### Leadership succession
+When a Chief announces that he plans to step down or the position is vacated, the former Chiefs form a Nominating Committee, which manages the nomination and election processes. The Committee solicits nominations from members; vets the nominees in the Primal tradition, in a spirit of truth and ruthless compassion; and presents a slate with one or more candidates to the membership at least one week prior to a General Meeting, at which the Committee manages an election process, which includes discussion and opportunities to revise the slate. A “candidate” on the slate may be more than one man (i.e., co- chiefs). A candidate becomes Chief upon receiving more than 50% of votes cast. Only members can vote and only in-person (there are no proxy votes); abstentions do not count.
 
-#### Completion
-Chiefs serve until they resign or are removed by a vote of "no-confidence." Any group of five or more members may bring a vote of no-confidence at any time by notifying the Members via email at least 14 days prior to the General Meeting at which the vote will be held. A verdict of no confidence is upheld by a majority vote of the Members at the General Meeting.
+#### Leadership completion
+Chiefs serve until they resign or are removed by a vote of "no-confidence." Any group of five or more members may bring a vote of no-confidence at any time by notifying the members via email at least 14 days prior to the General Meeting at which the vote will be held. A verdict of no confidence is upheld by a majority vote of the members at the General Meeting.
 
 Completing Chiefs are held in a position of honor.
 
@@ -59,7 +59,7 @@ Meetings and Activities
 
 There will be a monthly General Meeting to be held at the same time and place, unless changed by the Chief.
 
-Unless otherwise specified, all meetings and activities are open to all men. Attendance is not required at any meeting or activity. All activities must be sponsored by a team or other group of Momentum Members.
+Unless otherwise specified, all meetings and activities are open to all men. Attendance is not required at any meeting or activity. All activities must be sponsored by a team or other group of Momentum members.
 
 Confidentiality
 ---------------
@@ -79,4 +79,4 @@ The Chief may not sign checks or otherwise unilaterally authorize transfer of mo
 
 --------------------------------------------------------------------------------------------------------------
 
-Revised December 2019  -- Questions? [Contact us here]({{site.baseurl}}/contact/).
+Revised January 2020  -- Questions? [Contact us here]({{site.baseurl}}/contact/).
