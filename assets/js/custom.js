@@ -17,11 +17,11 @@ window.onload = function () {
   v.playbackRate = {{site.video_playback_rate}}
 };
 
-var deer = "tor";
-var rae = "term";
-var fa = "moni";
+var deer = "Inquiry";
+var rae = "In";
+var fa = "bound";
 var doe = "@";
-var poo = "gmail.com";
+var poo = "gomomentum.org";
 var fullMusic = rae + fa + deer + doe + poo;
 var gomomentum =  document.getElementById('goMomentum');
 gomomentum.setAttribute('action', '//formspree.io/' + fullMusic);
